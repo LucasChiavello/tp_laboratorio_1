@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599506479 source:c:\users\qebba\desktop\utn\programacioon\1 cuatrimestre\ejercicios\1\ejercicio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599530612 source:c:\users\qebba\desktop\utn\programacioon\1 cuatrimestre\ejercicios\1\ejercicio 1\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1599690012 c:\users\qebba\desktop\utn\programacioon\1 cuatrimestre\ejercicios\1\ejercicio 1\funciones.h
+
+1599506479 source:c:\users\qebba\desktop\utn\programacioon\1 cuatrimestre\ejercicios\1\ejercicio 1 - copia - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599964383 c:\users\qebba\desktop\utn\programacioon\1 cuatrimestre\ejercicios\1\ejercicio 1 - copia - copia\funciones.h
+
+1599960939 source:c:\users\qebba\desktop\utn\programacioon\1 cuatrimestre\ejercicios\1\ejercicio 1 - copia - copia\funciones.c
+	<stdio.h>
+	"funciones.h"
+
